@@ -44,7 +44,7 @@
 
 #### Social 👥
 [![Github](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/bea14)
-[![Linkedin](https://img.shields.io/badge/-Djadda%20Farid-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/béatrice-moulin-beltrame/)
+[![Linkedin](https://img.shields.io/badge/-Beatrice%20Moulin%20Beltrame-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/béatrice-moulin-beltrame/)
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/beamb14)
 
 ### GitHub Stats 📈
